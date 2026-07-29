@@ -49,7 +49,7 @@ This version will only work on Windows, but it is a lot simpler and recomened fo
 
 # Support
 
-For support, message me on discord (**Roadbobek**) or unpreferably you can email me but I dont check very often, (**Roadbobek1234@gmail**).
+For support, message me on discord (**Roadbobek**) or unpreferably you can email me but I dont check very often, (**contact.roadbobek@gmail.com**).
 
 
 ### License
